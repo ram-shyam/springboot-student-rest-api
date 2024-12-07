@@ -13,7 +13,7 @@ This is a RESTful API developed using Spring Boot to manage student records. It 
 ## Technology Stack
 
 - **Framework:** Spring Boot
-- **Database:** (Add your database here, e.g., H2, MySQL, PostgreSQL, etc.)
+- **Database:** Mysql
 - **Language:** Java
 - **Build Tool:** Maven
 
