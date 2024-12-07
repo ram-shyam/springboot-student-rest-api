@@ -92,7 +92,3 @@ This is a RESTful API developed using Spring Boot to manage student records. It 
    mvn spring-boot:run
    ```
 4. Access the API at `http://localhost:8080/students`.
-
----
-
-Feel free to adapt this README as your project evolves!
